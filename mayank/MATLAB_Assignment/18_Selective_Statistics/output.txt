@@ -1,0 +1,16 @@
+*** POSITIVE-ONLY STATISTICS ***
+
+Set 1 : 8 -3 0 15 -11 22 0 -6 4 19 -1 
+  Positives used : 8 15 22 4 19 
+  Count          : 5
+  Sum            : 68
+  Average        : 13.600
+
+Set 2 : -4 0 -9 -2 0 -15 
+  No positive values - count is 0, sum and average not defined.
+
+Set 3 : 2.5 -1 7.5 0 12 
+  Positives used : 2.5 7.5 12 
+  Count          : 3
+  Sum            : 22
+  Average        : 7.333

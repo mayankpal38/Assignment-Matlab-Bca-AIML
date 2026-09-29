@@ -1,0 +1,12 @@
+###### STUDENT RESULT ANALYZER ######
+Marks entered   (15) : 56 91 -12 47 33 101 68 29 84 -1 73 45 150 62 18 
+Marks accepted  (11) : 56 91 47 33 68 29 84 73 45 62 18 
+Marks rejected  ( 4) : -12 101 -1 150 
+
+Sum of valid marks   : 606
+Mean of valid marks  : 55.09
+Top score            : 91
+Bottom score         : 18
+Pass criterion       : mark >= 33
+Students passed      : 9
+Students failed      : 2

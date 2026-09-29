@@ -1,0 +1,19 @@
+### arraySummary RESULTS ###
+
+Positive set -> [ 27 46 13 58 35 9 ]
+   total   : 188
+   average : 31.333
+   minimum : 9
+   maximum : 58
+
+Negative set -> [ -8 -31 -15 -4 -22 ]
+   total   : -80
+   average : -16.000
+   minimum : -31
+   maximum : -4
+
+Mixed set -> [ 12.5 -7 0 19 -3.5 6 ]
+   total   : 27
+   average : 4.500
+   minimum : -7
+   maximum : 19

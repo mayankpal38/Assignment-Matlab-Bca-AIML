@@ -1,0 +1,10 @@
+====== MARKS ANALYSIS (analyzeMarks) ======
+Marks supplied       : 67 88 -15 42 39 103 74 55 120 91 28 60 
+Used (valid 0-100)   : 67 88 42 39 74 55 91 28 60 
+Ignored (invalid)    : -15 103 120 
+
+Valid marks counted  : 9
+Average valid mark   : 60.44
+Highest valid mark   : 91
+Pass (>= 40)         : 7
+Fail (< 40)          : 2

@@ -1,0 +1,32 @@
+------- MINI TRANSACTION SUMMARY -------
+Source file         : transactions.txt
+Entries processed   : 18
+
+Txn         Amount   Category
+1          2750.00   CREDIT
+2          -480.00   DEBIT
+3             0.00   NO CHANGE
+4          1325.50   CREDIT
+5         -2100.00   DEBIT
+6           640.00   CREDIT
+7           -95.75   DEBIT
+8             0.00   NO CHANGE
+9          5200.00   CREDIT
+10        -1340.00   DEBIT
+11          875.00   CREDIT
+12        -3600.00   DEBIT
+13            0.00   NO CHANGE
+14          410.00   CREDIT
+15         -260.00   DEBIT
+16         1990.00   CREDIT
+17         -725.00   DEBIT
+18         3150.00   CREDIT
+
+Credit transactions : 8
+Debit transactions  : 7
+No-change entries   : 3
+Total credited      : 16340.50
+Total debited       : 8600.75
+Net balance         : 7739.75
+Largest credit      : 5200.00
+Largest debit (mag) : 3600.00

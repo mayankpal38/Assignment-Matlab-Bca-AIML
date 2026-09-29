@@ -1,0 +1,35 @@
+############################################
+#     INTEGRATED STUDENT RECORD REPORT     #
+############################################
+
+Input file        : student_marks.txt
+Entries read      : 15
+Accepted (12)     : 81 47 93 58 36 72 64 29 88 51 70 33 
+Rejected ( 3)     : -6 105 150 
+Rejected marks lie outside 0-100 and are not used.
+
+Student   Mark    Grade   Result
+----------------------------------
+S1        81      A       PASS
+S2        47      C       PASS
+S3        93      A       PASS
+S4        58      C       PASS
+S5        36      C       PASS
+S6        72      B       PASS
+S7        64      B       PASS
+S8        29      F       FAIL
+S9        88      A       PASS
+S10       51      C       PASS
+S11       70      B       PASS
+S12       33      F       FAIL
+
+---------------- SUMMARY ----------------
+Total of valid marks : 722
+Class average        : 60.17
+Highest mark         : 93
+Lowest mark          : 29
+Pass mark            : 35
+Passed / Failed      : 10 / 2
+Pass percentage      : 83.33%
+Grades A/B/C/F       : 3 / 3 / 4 / 2
+Overall result       : EXCELLENT - at least 80% passed

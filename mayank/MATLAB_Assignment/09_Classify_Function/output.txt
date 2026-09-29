@@ -1,0 +1,11 @@
+[ classifyArray COMPARISON ]
+Batch A : 15 -22 0 8 -13 27 0 -4 6 
+Batch B : -9 3.5 12 -17 0 21 -30 5 -1.5 14 
+
+Category      Batch A  Batch B  Diff (A-B)
+------------------------------------------
+Positive            4        5          -1
+Negative            3        4          -1
+Zero                2        1          +1
+Even (int)          6        4          +2
+Odd (int)           3        4          -1

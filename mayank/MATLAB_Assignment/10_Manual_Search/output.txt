@@ -1,0 +1,13 @@
+### MANUAL SEARCH ###
+Data (10 items): 44 17 62 29 17 85 17 50 29 17 
+
+Searching for 17 ...
+  first seen at index 2
+  appears 4 time(s)
+
+Searching for 29 ...
+  first seen at index 4
+  appears 2 time(s)
+
+Searching for 99 ...
+  99 does not occur anywhere in the data.

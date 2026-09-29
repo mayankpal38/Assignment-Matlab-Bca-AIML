@@ -1,0 +1,12 @@
+>> safeFactorial test run <<
+
+Case   Input    Status     Result
+1      6        ACCEPTED   720
+2      1        ACCEPTED   1
+3      -4       REJECTED   negative or non-integer input
+4      9        ACCEPTED   362880
+5      2.5      REJECTED   negative or non-integer input
+6      0        ACCEPTED   1
+7      -0.5     REJECTED   negative or non-integer input
+
+Accepted: 4   Rejected: 3

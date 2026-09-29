@@ -1,0 +1,17 @@
+<<< NUMBER DIGIT ANALYSIS >>>
+
+Number under test : 905286
+  How many digits : 6
+  Digit sum       : 30
+  Even digits     : 4
+  Odd digits      : 2
+  Reverse         : 682509
+  Palindrome?     : NO
+
+Number under test : 43734
+  How many digits : 5
+  Digit sum       : 21
+  Even digits     : 2
+  Odd digits      : 3
+  Reverse         : 43734
+  Palindrome?     : YES

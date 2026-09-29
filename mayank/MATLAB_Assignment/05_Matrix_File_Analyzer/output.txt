@@ -1,0 +1,20 @@
+~~~ MATRIX FILE ANALYZER ~~~
+Loaded 5 rows x 4 columns from matrix.txt
+
+   17   -9   26    4
+  -12   31    8   15
+   23    6  -14   29
+   10   19    3   -7
+   -2   27   21   11
+
+Largest element  : 31  (row 2, column 2)
+Smallest element : -14  (row 3, column 3)
+
+Row sums:
+  row 1 -> 38
+  row 2 -> 42
+  row 3 -> 44
+  row 4 -> 25
+  row 5 -> 57
+
+Row 5 has the highest sum (57)

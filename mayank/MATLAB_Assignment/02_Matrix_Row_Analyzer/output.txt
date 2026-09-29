@@ -1,0 +1,15 @@
+*** ROW-WISE MATRIX ANALYZER ***
+Input matrix (4 x 5):
+   14   -3   22    9   17
+    6   25   11   -8   19
+   21    4   13   16   10
+   -5   18   27    7   12
+
+Row No |    Sum |     Mean |   Peak
+------------------------------------
+1      |     59 |    11.80 |     22
+2      |     53 |    10.60 |     25
+3      |     64 |    12.80 |     21
+4      |     59 |    11.80 |     27
+
+Greatest row sum is 64 in row number 3

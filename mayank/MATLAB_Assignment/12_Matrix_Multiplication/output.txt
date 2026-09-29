@@ -1,0 +1,17 @@
+==== MANUAL MATRIX MULTIPLICATION ====
+
+Pair 1 : A is 3x2, B is 2x4
+  Manual product C (3x4):
+       -3      4    -13     10
+       23    -12     11     12
+       37    -24     40     -3
+  Comparison with A*B : identical
+
+Pair 2 : A is 2x2, B is 3x2
+  Not possible - A has 2 column(s) but B has 3 row(s).
+
+Pair 3 : A is 2x2, B is 2x2
+  Manual product C (2x2):
+       16    -16
+       -3     25
+  Comparison with A*B : identical

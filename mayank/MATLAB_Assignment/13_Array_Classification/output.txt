@@ -1,0 +1,14 @@
+::: ARRAY CLASSIFICATION :::
+Input (14 values): 13 -6 0 24 -17 8.5 -2 0 31 -9 16 0 -11 5 
+
+Positive  count : 6
+Negative  count : 5
+Zero      count : 3
+Even      count : 7
+Odd       count : 6
+Fractions (no parity) : 1
+
+Sum of positives : 97.5
+Sum of negatives : -45
+
+Most frequent category : Even (7 elements)
